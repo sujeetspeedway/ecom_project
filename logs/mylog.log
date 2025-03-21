@@ -1,0 +1,18 @@
+[INFO ] 2025-03-19 21:20:20.366 [main] MyStoreV1 - urlopen
+[INFO ] 2025-03-19 21:20:22.571 [main] MyStoreV1 - clicked on signin
+[INFO ] 2025-03-19 21:20:22.758 [main] MyStoreV1 - entered registered email and password
+[INFO ] 2025-03-19 21:20:23.690 [main] MyStoreV1 - Account verified
+[INFO ] 2025-03-19 21:20:24.747 [main] MyStoreV1 - clicked on signout
+[INFO ] 2025-03-19 21:20:25.538 [main] MyStoreV1 - clicked on signin
+[INFO ] 2025-03-19 21:20:25.843 [main] MyStoreV1 - entered registered email and password
+[INFO ] 2025-03-19 21:20:26.606 [main] MyStoreV1 - Account not verified
+[INFO ] 2025-03-19 21:20:26.843 [main] MyStoreV1 - screenshot captured
+[INFO ] 2025-03-20 08:53:19.235 [main] MyStoreV1 - urlopen
+[INFO ] 2025-03-20 08:53:21.645 [main] MyStoreV1 - clicked on signin
+[INFO ] 2025-03-20 08:53:23.017 [main] MyStoreV1 - entered registered email and password
+[INFO ] 2025-03-20 08:53:23.046 [main] MyStoreV1 - Account verified
+[INFO ] 2025-03-20 08:53:24.103 [main] MyStoreV1 - clicked on signout
+[INFO ] 2025-03-20 08:53:25.111 [main] MyStoreV1 - clicked on signin
+[INFO ] 2025-03-20 08:53:26.177 [main] MyStoreV1 - entered registered email and password
+[INFO ] 2025-03-20 08:53:26.215 [main] MyStoreV1 - Account not verified
+[INFO ] 2025-03-20 08:53:26.391 [main] MyStoreV1 - screenshot captured
